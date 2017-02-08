@@ -1,0 +1,13 @@
+/* Bootstrap Custom Css Dosyası*/
+body{
+    background-color:forestgreen;
+}
+
+.h500{
+    height: 500px;
+    background-color: darkred;
+}
+
+.p0{
+    padding:0;
+}
