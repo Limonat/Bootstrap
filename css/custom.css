@@ -4,8 +4,8 @@ body{
 }
 
 .h500{
-    height: 500px;
-    background-color: darkred;
+    min-height: 500px; /* min-height: olduğunda ihtiyaca göre uzayacak kendiliğinden arka plan rengi*/
+    background-color:navajowhite;
 }
 
 .p0{
@@ -19,4 +19,14 @@ body{
 }
 .m0{
     margin: 0px;
+}
+.mavi{
+    background-color: deepskyblue;
+}
+.kirmizi{
+    background-color: orangered;
+}
+
+.turuncu{
+    background-color: orange;
 }
