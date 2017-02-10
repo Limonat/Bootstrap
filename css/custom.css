@@ -11,3 +11,12 @@ body{
 .p0{
     padding:0;
 }
+
+.column{
+    background-color: navajowhite;
+    color:deepskyblue;
+    height: 150px;
+}
+.m0{
+    margin: 0px;
+}
